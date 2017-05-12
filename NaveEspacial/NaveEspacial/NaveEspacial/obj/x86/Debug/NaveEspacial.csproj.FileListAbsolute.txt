@@ -1,0 +1,24 @@
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\NaveEspacial.exe
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\NaveEspacial.pdb
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\obj\x86\Debug\NaveEspacial.csprojResolveAssemblyReference.cache
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\obj\x86\Debug\NaveEspacial.exe
+c:\users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\obj\x86\Debug\NaveEspacial.pdb
+C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\Alien Grabber.xnb
+C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\Explosion.xnb
+C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\General Shooter Spacey Level.xnb
+C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\Player Dual Shot.xnb
+C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\Ship_Flying.xnb
+C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\Space Background.xnb
+C:\Users\yensen\Documents\Visual Studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Sonidos\001105163_prev.xnb
+C:\Users\yensen\Documents\Visual Studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Sonidos\14-aquas.xnb

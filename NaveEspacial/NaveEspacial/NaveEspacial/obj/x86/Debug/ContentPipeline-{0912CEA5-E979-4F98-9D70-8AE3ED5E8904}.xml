@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Imagenes\Alien Grabber.png</Source>
+      <Name>Imagenes\Alien Grabber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\Alien Grabber.xnb</Output>
+      <Time>2017-05-04T12:47:19.5797326-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Explosion.png</Source>
+      <Name>Imagenes\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\Explosion.xnb</Output>
+      <Time>2017-05-04T12:47:19.5977343-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\General Shooter Spacey Level.png</Source>
+      <Name>Imagenes\General Shooter Spacey Level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\General Shooter Spacey Level.xnb</Output>
+      <Time>2017-05-04T12:47:19.6797891-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Player Dual Shot.png</Source>
+      <Name>Imagenes\Player Dual Shot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\Player Dual Shot.xnb</Output>
+      <Time>2017-05-04T12:47:19.6987647-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Ship_Flying.png</Source>
+      <Name>Imagenes\Ship_Flying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\Ship_Flying.xnb</Output>
+      <Time>2017-05-04T12:47:19.7177912-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Imagenes\Space Background.png</Source>
+      <Name>Imagenes\Space Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yensen\documents\visual studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Imagenes\Space Background.xnb</Output>
+      <Time>2017-05-04T12:47:19.5597311-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\001105163_prev.mp3</Source>
+      <Name>Sonidos\001105163_prev</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yensen\Documents\Visual Studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Sonidos\001105163_prev.xnb</Output>
+      <Time>2017-05-08T21:31:45.3041952-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos\14-aquas.mp3</Source>
+      <Name>Sonidos\14-aquas</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\yensen\Documents\Visual Studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\Sonidos\14-aquas.xnb</Output>
+      <Time>2017-05-08T21:31:45.2861942-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0912CEA5-E979-4F98-9D70-8AE3ED5E8904}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\yensen\Documents\Visual Studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacialContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\yensen\Documents\Visual Studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\yensen\Documents\Visual Studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\yensen\Documents\Visual Studio 2015\Projects\NaveEspacial\NaveEspacial\NaveEspacial\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-05-04T11:57:10.5805503-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

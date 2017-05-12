@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaveEspacial", "NaveEspacial\NaveEspacial\NaveEspacial.csproj", "{13158003-5A4E-40F4-888B-09CB61192F28}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "NaveEspacialContent", "NaveEspacial\NaveEspacialContent\NaveEspacialContent.contentproj", "{0912CEA5-E979-4F98-9D70-8AE3ED5E8904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13158003-5A4E-40F4-888B-09CB61192F28}.Debug|x86.ActiveCfg = Debug|x86
+		{13158003-5A4E-40F4-888B-09CB61192F28}.Debug|x86.Build.0 = Debug|x86
+		{13158003-5A4E-40F4-888B-09CB61192F28}.Release|x86.ActiveCfg = Release|x86
+		{13158003-5A4E-40F4-888B-09CB61192F28}.Release|x86.Build.0 = Release|x86
+		{0912CEA5-E979-4F98-9D70-8AE3ED5E8904}.Debug|x86.ActiveCfg = Debug|x86
+		{0912CEA5-E979-4F98-9D70-8AE3ED5E8904}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
